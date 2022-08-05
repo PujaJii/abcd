@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="new_password">New password</string>
+    <string name="verify_otp">verify otp</string>
+    <string name="enter_otp">Enter OTP</string>
+    <string name="set_new_password">set new password</string>
+    <string name="otp_has_sent_to_your_registered_email">OTP has sent to your registered email</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="edit_your_profile">Edit Your Profile</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <string name="top">Top</string>
+    <string name="notification">Notification</string>
+    <string name="account">Account</string>
+    <string name="my_order">My order</string>
+    <string name="dark_mode">Dark mode</string>
+    <string name="terms_and_conditions">Terms and conditions</string>
+    <string name="rate_us">Rate us</string>
+    <string name="notifications">Notifications</string>
+    <string name="my_wishlist">My wishlist</string>
+    <string name="my_cart">My cart</string>
+
+    <!--to toggle the open close button
+        of the navigation drawer-->
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+</resources>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="nav_view">
+    <group android:checkableBehavior="single">
+
+    <item
+        android:id="@+id/my_order"
+        android:title="@string/my_order"
+        android:icon="@drawable/my_order"/>
+    <item
+        android:id="@+id/drawer_notification"
+        android:title="@string/notification"
+        android:icon="@drawable/notification"/>
+    <item
+        android:id="@+id/dark_mode"
+        android:title="@string/dark_mode"
+        android:icon="@drawable/dark_mode"/>
+    <item
+        android:id="@+id/notifications"
+        android:title="@string/notifications"
+        android:icon="@drawable/notifications"/>
+    <item
+        android:id="@+id/my_cart"
+        android:title="@string/my_cart"
+        android:icon="@drawable/my_cart"/>
+    <item
+        android:id="@+id/my_wishlist"
+        android:title="@string/my_wishlist"
+        android:icon="@drawable/wishlist"/>
+    <item
+        android:id="@+id/terms_and_conditions"
+        android:title="@string/terms_and_conditions"
+        android:icon="@drawable/terms_and_conditions"/>
+    <item
+        android:id="@+id/rate_us"
+        android:title="@string/rate_us"
+        android:icon="@drawable/rate"/>
+    </group>
+
+</menu>
